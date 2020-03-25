@@ -1,0 +1,7 @@
+TELEGRAM_API_KEY = ''
+TELEGRAM_API_URL = 'https://api.telegram.org/bot'+TELEGRAM_API_KEY
+TELEGRAM_TEST_GROUP = '-1001382834046'
+TELEGRAM_COVID_GROUP = '-1001264767394'
+TELEGRAM_BOT_ID = '936682467'
+
+#to get group/chat id use /getUpdates
