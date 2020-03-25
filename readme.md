@@ -23,7 +23,7 @@ Type :
 	test - test_group
 
 Contributers :
-	Contribute to the code by checking out develop branch as secret tokens are available here.
+	To contribute ping me.
 
 Features :
 1. Multilingual News are scraped and posted
