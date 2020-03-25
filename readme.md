@@ -22,6 +22,9 @@ Type :
 	prod - Official Covid-19 Updates
 	test - test_group
 
+Contributers :
+	Contribute to the code by checking out develop branch as secret tokens are available here.
+
 Features :
 1. Multilingual News are scraped and posted
 2. Latest Covid Stats across India
